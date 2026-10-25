@@ -1,0 +1,30 @@
+{
+  "slug": "classic-event-management-arayur",
+  "name": "Classic Event Management",
+  "shortName": "Classic",
+  "descriptor": "Event Management",
+  "address": "84XJ+C72, Idichakkaplamoodu - Plamoottukada Rd, Arayur, Keralam 695502",
+  "area": "Arayur",
+  "city": "Arayur",
+  "district": "Thiruvananthapuram",
+  "region": "Kerala",
+  "postalCode": "695502",
+  "geo": {
+    "lat": 8.3485152,
+    "lng": 77.1306314
+  },
+  "mapsLink": "https://maps.google.com/?cid=436012041498855851",
+  "phone": "+91 81292 54660",
+  "whatsapp": "918129254660",
+  "rating": 5,
+  "reviewCount": 5,
+  "reviews": [],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://classic-event-management-arayur.vercel.app"
+}
